@@ -1,7 +1,7 @@
 //import express
 import express from 'express';
 
-//test hj
+//test hj cli
 
 //load env variables
 import dotenv from 'dotenv';
